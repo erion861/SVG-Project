@@ -1,0 +1,270 @@
+* {
+    font-family: Helvetica;
+}
+text {
+    font-size: 8pt;
+}
+.dates {
+    display: flex;
+    flex-direction: row;
+}
+.date {
+    text-align: center;
+    width: 40pt;
+    height: 20pt;
+}
+.flatline {
+    display: flex;
+}
+.horizontaline {
+    width: 1200pt;
+    height: 30pt;
+}
+.line {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 12px;
+  }
+
+ /* color classes */ 
+.grey {
+    fill: #999999;
+}
+/* dark blue*/
+.dblue {
+    fill: #2F5B7C;
+}
+/* light blue */
+.lblue {
+    fill: #12AAB5;
+}
+.blue {
+    fill: #1699D3;
+}
+.orange {
+    fill: #F08705;
+}
+.red {
+    fill: #E85642;
+}
+.white {
+    fill: white;
+}
+
+/* size classes */
+.one {
+    width: 75pt;
+    height: 20pt;
+ 
+}
+.two {
+    width: 80pt;
+    height: 20pt;
+
+}
+.three {
+    width: 135pt;
+    height: 20pt;
+
+}
+.four {
+    width: 160pt;
+    height: 20pt;
+}
+.five {
+    width: 460pt;
+    height: 20pt;
+}
+.six {
+    width: 170pt;
+    height: 20pt;
+}
+.seven {
+    width: 355pt;
+    height: 20pt;
+}
+.eight {
+    width: 500pt;
+    height: 20pt;
+}
+.nine {
+    width: 290pt;
+    height: 20pt;
+}
+.ten {
+    width: 250pt;
+    height: 20pt;
+}
+.eleven {
+    width: 310pt;
+    height: 20pt;
+}
+.twelve {
+    width: 520pt;
+    height: 20pt;
+}
+.thirteen {
+    width: 450pt;
+    height: 20pt;
+}
+.fourteen {
+    width: 420pt;
+    height: 20pt;
+}
+.fifteen {
+    width: 30pt;
+    height: 20pt;
+}
+.sixteen {
+    width: 90pt;
+    height: 20pt;
+}
+.seventeen {
+    width: 275pt;
+    height: 20pt;
+}
+.eighteen {
+    width: 640pt;
+    height: 20pt;
+}
+.nineteen {
+    width: 130pt;
+    height: 20pt;
+}
+.twenty {
+    width: 430pt;
+    height: 20pt;
+}
+.twentyone {
+    width: 280pt;
+    height: 20pt;
+}
+.twentytwo {
+    width: 190pt;
+    height: 20pt;
+}
+.twentythree {
+    width: 660pt;
+    height: 20pt;
+}
+.twentyfour {
+    width: 110pt;
+    height: 20pt;
+}
+.twentyfive {
+    width: 400pt;
+    height: 20pt;
+}
+.twentysix {
+    width: 205pt;
+    height: 20pt;
+}
+.twentyseven {
+    width: 327pt;
+    height: 20pt;
+}
+.twentyeight {
+    width: 937pt;
+    height: 20pt;
+}
+.twentynine {
+    width: 70pt;
+    height: 20pt;
+}
+.thirty {
+    width: 350pt;
+    height: 20pt;
+}
+.thirtyone {
+    width: 342pt;
+    height: 20pt;
+}
+.thirtytwo {
+    width: 320pt;
+    height: 20pt;
+}
+.thirtythree {
+    width: 160pt;
+    height: 20pt;
+}
+.thirtyfour {
+    width: 532pt;
+    height: 20pt;
+}
+.thirtyfour {
+    width: 612pt;
+    height: 20pt;
+}
+.thirtyfive {
+    width: 220pt;
+    height: 20pt;
+}
+.thirtysix {
+    width: 720pt;
+    height: 20pt;
+}
+.thirtyseven {
+    width: 25pt;
+    height: 20pt;
+}
+.thirtyeight {
+    width: 795pt;
+    height: 20pt;
+}
+.thirtynine {
+    width: 93pt;
+    height: 20pt;
+}
+.fourty {
+    width: 100pt;
+    height: 20pt;
+}
+/* shape classes */
+
+.arrowleft {
+    width: 10pt;
+    height: 20pt;
+}
+.arrow {
+    width: 20pt;
+    height: 20pt;
+}
+}
+.arrowright {
+    width: 20pt;
+    height: 20pt;
+}
+.half {
+    padding-top: 5pt;
+}
+.empty {
+    width: 40pt;
+    height: 20pt;
+}
+
+/* background classes for arrows */
+.bgdblue {
+    background-color: #2F5B7C;
+    height: 20pt;
+    width: 12pt;
+}
+.bgblue {
+    background-color:#1699D3;
+    height: 20pt;
+    width: 12pt;
+}
+.bglblue {
+    background-color: #12AAB5;
+    height: 20pt;
+    width: 12pt;
+}
+.bgorange {
+    background-color: #F08705;
+    height: 20pt;
+    width: 12pt;
+}
+.bgred {
+    background-color: #E85642;
+    height: 20pt;
+    width: 12pt;
+}
